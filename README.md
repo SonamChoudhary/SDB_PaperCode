@@ -1,3 +1,5 @@
+## The implementation has been downloaded from https://github.com/j2kun/fkl-SDM16 .Credit should go fully to j2kun. 
+
 # Code and experiments for "A confidence-based approach for balancing fairness and accuracy"
 
 All experiments used in this paper were implemented in Python 3 with the following
